@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="cpp" targetName="cpp" />
+      <config projectName="cpp" targetName="gmock" />
+      <config projectName="cpp" targetName="Language-Tools" />
+      <config projectName="cpp" targetName="gtest" />
+      <config projectName="cpp" targetName="LaraTests" />
+      <config projectName="cpp" targetName="gmock_main" />
+      <config projectName="cpp" targetName="gtest_main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="592086e5-b3f7-4f14-92f0-34bf60c3c12e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lexer/DFA.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/lexer/DFA.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lexer/DFA.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/lexer/DFA.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lexer/NFA.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/lexer/NFA.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lexer/NFA.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/lexer/NFA.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lexer/State.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/lexer/State.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/CMakeLists.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="OCResolveContextSettings">
+    <option name="configuration" value="0-Debug-Language-Tools" />
+  </component>
+  <component name="ProjectId" id="1eKCp0swinnVEjPqxkgGhNaWqZy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="language.cpp.clang-tidy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Google Test.LexerFixture.SingleCharacterTokenization">
+    <configuration name="LaraTests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="LaraTests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp" RUN_TARGET_NAME="LaraTests" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LexerFixture.SingleCharacterTokenization" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="LaraTests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp" RUN_TARGET_NAME="LaraTests" TEST_CLASS="LexerFixture" TEST_METHOD="SingleCharacterTokenization" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Language-Tools" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="Language-Tools" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp" RUN_TARGET_NAME="cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.cpp" />
+      <item itemvalue="CMake Application.Language-Tools" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="Google Test.LaraTests" />
+      <item itemvalue="Google Test.LexerFixture.SingleCharacterTokenization" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.LexerFixture.SingleCharacterTokenization" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="592086e5-b3f7-4f14-92f0-34bf60c3c12e" name="Default Changelist" comment="" />
+      <created>1594061076549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594061076549</updated>
+      <workItem from="1594061080398" duration="31000" />
+      <workItem from="1594061956679" duration="313000" />
+      <workItem from="1594063917256" duration="1210000" />
+      <workItem from="1594065408606" duration="273000" />
+      <workItem from="1594065692270" duration="125000" />
+      <workItem from="1594065827629" duration="329000" />
+      <workItem from="1594066166798" duration="540000" />
+      <workItem from="1594066716154" duration="60000" />
+      <workItem from="1594084195019" duration="2118000" />
+      <workItem from="1594086324559" duration="236000" />
+      <workItem from="1594086571091" duration="10274000" />
+      <workItem from="1594346025003" duration="15000" />
+      <workItem from="1600028838985" duration="480000" />
+      <workItem from="1600029339444" duration="17883000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="986" y="386" key="#Language-Tools" timestamp="1600033498780">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="986" y="386" key="#Language-Tools/0.23.2560.1337@0.23.2560.1337" timestamp="1600033498780" />
+    <state x="884" y="386" width="151" height="221" key="#Vim_Emulation" timestamp="1594065256703">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="884" y="386" width="151" height="221" key="#Vim_Emulation/0.0.1920.1080@0.0.1920.1080" timestamp="1594065256703" />
+    <state x="724" y="300" width="460" height="359" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594065803116">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="724" y="300" width="460" height="359" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1594065803116" />
+    <state x="600" y="74" width="707" height="811" key="CommitChangelistDialog2" timestamp="1594086338877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="600" y="74" width="707" height="811" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1594086338877" />
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom" timestamp="1600462275879">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600462275879" />
+    <state width="2518" height="374" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1600385552736" />
+    <state width="1398" height="198" key="GridCell.Tab.0.center" timestamp="1600462275878">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600462275878" />
+    <state width="2518" height="374" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1600385552735" />
+    <state width="1398" height="198" key="GridCell.Tab.0.left" timestamp="1600462275878">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600462275878" />
+    <state width="2518" height="374" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1600385552735" />
+    <state width="1398" height="198" key="GridCell.Tab.0.right" timestamp="1600462275879">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600462275879" />
+    <state width="2518" height="374" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1600385552736" />
+    <state width="1398" height="253" key="GridCell.Tab.1.bottom" timestamp="1600457237653">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="253" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600457237653" />
+    <state width="2518" height="461" key="GridCell.Tab.1.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1600385549832" />
+    <state width="1398" height="253" key="GridCell.Tab.1.center" timestamp="1600457237653">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="253" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1600457237653" />
+    <state width="2518" height="461" key="GridCell.Tab.1.center/0.23.2560.1337@0.23.2560.1337" timestamp="1600385549831" />
+    <state width="1398" height="253" key="GridCell.Tab.1.left" timestamp="1600457237653">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="253" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1600457237653" />
+    <state width="2518" height="461" key="GridCell.Tab.1.left/0.23.2560.1337@0.23.2560.1337" timestamp="1600385549831" />
+    <state width="1398" height="253" key="GridCell.Tab.1.right" timestamp="1600457237653">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="253" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1600457237653" />
+    <state width="2518" height="461" key="GridCell.Tab.1.right/0.23.2560.1337@0.23.2560.1337" timestamp="1600385549831" />
+    <state x="756" y="191" key="SettingsEditor" timestamp="1600317729651">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="567" y="136" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1594086526444" />
+    <state x="756" y="191" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1600317729651" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1600459871951">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1600459871951" />
+    <state x="940" y="302" width="1192" height="533" key="search.everywhere.popup" timestamp="1600612052021">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="529" y="189" width="670" height="333" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1600461613602" />
+    <state x="706" y="227" width="505" height="399" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1594135087812" />
+    <state x="940" y="302" width="1192" height="533" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1600612052021" />
+    <state x="941" y="304" width="674" height="494" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1600385115775" />
+  </component>
+</project>
